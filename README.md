@@ -1,4 +1,8 @@
-# Energy Consumption Maasuring Toolkit in Python Programming Language
+# Energy Consumption Measuring Toolkit in Python Programming Language
+
+## Overview
+
+This repo contains Energy Consumption Measuring Toolkit in Python Programming Language.
 
 #### Measuring Energy Consumption in Software Appliation using RAPL
 
