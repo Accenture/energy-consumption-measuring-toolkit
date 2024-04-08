@@ -1,0 +1,4 @@
+# Configuration File
+
+# General settings
+package_threshold=320.00

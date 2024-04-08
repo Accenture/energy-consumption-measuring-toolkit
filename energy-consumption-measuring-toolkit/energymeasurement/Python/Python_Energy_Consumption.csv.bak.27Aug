@@ -1,0 +1,84 @@
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+binary-trees ; 858.982849121093750000, 791.323181152343750000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 858.98 J
+Total Time to execute (Sec): 53.304094999999996674 Power data recorded at: 11:47:22.443539
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+binary-trees ; 1116.225830078125000000, 1037.015991210937500000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 1116.23 J
+Total Time to execute (Sec): 61.290380999999996448 Power data recorded at: 16:28:58.784638
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+k-nucleotide ; 2368.342712402343750000, 2186.762084960937500000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 2368.34 J
+Total Time to execute (Sec): 144.022298000000006368 Power data recorded at: 16:37:52.413349
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+binary-trees ; 939.668457031250000000, 850.449401855468750000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 939.67 J
+Total Time to execute (Sec): 75.688918999999998505 Power data recorded at: 19:04:52.240143
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+binary-trees ; 960.776977539062500000, 896.388488769531250000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 960.78 J
+Total Time to execute (Sec): 50.232334999999999070 Power data recorded at: 13:31:31.801113
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+binary-trees ; 1020.288879394531250000, 954.457885742187500000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 1020.29 J
+Total Time to execute (Sec): 55.208891000000001270 Power data recorded at: 17:43:48.132611
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+binary-trees ; 1136.497802734375000000, 1037.045776367187500000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 1136.50 J
+Total Time to execute (Sec): 62.791632999999997367 Power data recorded at: 18:25:05.224703
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+binary-trees ; 1136.618103027343750000, 1033.861694335937500000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 1136.62 J
+Total Time to execute (Sec): 62.580303000000000679 Power data recorded at: 19:25:11.333310
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+mandelbrot ; 2986.508300781250000000, 2745.758605957031250000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 2986.51 J
+Total Time to execute (Sec): 184.765876999999989039 Power data recorded at: 17:45:28.493694
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+mandelbrot ; 5663.690612792968750000, 5163.231262207031250000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 5663.69 J
+Total Time to execute (Sec): 367.932680000000004839 Power data recorded at: 17:52:05.345826
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+binary-trees ; 1201.119873046875000000, 1089.650085449218750000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 1201.12 J
+Total Time to execute (Sec): 69.210918000000006600 Power data recorded at: 17:54:10.021031
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+binary-trees ; 1121.917663574218750000, 1014.697204589843750000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 1121.92 J
+Total Time to execute (Sec): 68.451434000000006108 Power data recorded at: 17:55:47.594801
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+k-nucleotide ; 3104.499877929687500000, 2780.616760253906250000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 3104.50 J
+Total Time to execute (Sec): 195.058074000000004844 Power data recorded at: 18:00:00.700204
+------------------------------------------------------------------------------------------------- 
+Benchmark , Package , CPU , GPU , DRAM? , Time (sec) 
+------------------------------------------------------------------------------------------------- 
+k-nucleotide ; 2658.087951660156250000, 2416.827636718750000000,  NA (uncore),  NA (DRAM) 
+Energy consumption threshold of 700.00 J exceeded! Power consumption: 2658.09 J
+Total Time to execute (Sec): 167.644133000000010725 Power data recorded at: 18:08:38.394175
+------------------------------------------------------------------------------------------------- 
