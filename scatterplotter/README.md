@@ -4,5 +4,5 @@ The Matplotlib module has a method for drawing scatter plots, it needs two array
 
 Parameters:
 
-x_axis_data: Energy Consumed in Joules by Software Applications
+x_axis_data: Energy Consumed in Joules by Software Applications.
 y_axis_data: Total execution time of Software Application.

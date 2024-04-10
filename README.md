@@ -49,5 +49,5 @@ Generate a benchmark comparison of the energy consumed vs time taken by the soft
 
 Parameters:
 
-x_axis_data: Energy Consumed in Joules by Software Applications
+x_axis_data: Energy Consumed in Joules by Software Applications.
 y_axis_data: Total execution time of Software Application.
