@@ -1,4 +1,4 @@
-# Energy Consumption Measuring Toolkit in Python Programming Language
+# Energy Consumption Measuring Toolkit for Python Applications
 
 The way software is designed, developed, and deployed can have a major impact on energy consumption. Accordingly, companies should include software in their sustainability efforts.
  
@@ -29,7 +29,7 @@ Running Average Power Limit (RAPL) is a feature of recent intel processors that 
 Identified program for energy efficiency calculation using RAPL technology:
 •	pyJoules: Monitors energy consumption of python code, pyJoules support energy consumption calculation of intel cpu and code snippets using the RAPL technology. This module has been leveraged in our application.
 
-energymeasurement: This is a custom “RAPL Enhancement” application.
+#### energymeasurement: A custom “RAPL Enhancement” application.
 
 1.	Collect energy data of the software application.
     a.	Call rapl.h application energy measurement.
@@ -43,7 +43,7 @@ energymeasurement: This is a custom “RAPL Enhancement” application.
     c.	Energy calculation using tagging omits the sleep time set in between the two functions. 
 
 
-#### Generate Graph to benchmark the Energy Consumed by Software Appliation vs Time Taken for python applications.
+#### scatterplotter: Generate Graph to benchmark the Energy Consumed by Software Appliation vs Time Taken for python applications.
 
 Generate a benchmark comparison of the energy consumed vs time taken by the software applications.The Matplotlib module has a method for drawing scatter plots, it needs two arrays of the same length, one for the values of the x-axis, and one for the values of the y-axis:
 
