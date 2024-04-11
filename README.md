@@ -8,7 +8,7 @@ Key considerations on measuring energy consumption of software applications:
 
 First, a baseline for energy consumption of software is that any hardware will consume power when idle. For absolute numbers, subtract the baseline consumption measurement from the overall consumption measured when running the application.
  
-Second, the development of software can be extremely energy intensive. For example, sorting operation takes a significant amount time when the size of the given input increases. Hence critical to capture the execution time at a more fine grained level. The goals are saving time, decreasing power consumption, and saving money.
+Second, the development of software can be extremely energy intensive. For example, sorting operation takes a significant amount of time when the size of the given input increases. Hence critical to capture the execution time at a more fine grained level. The goals are saving time, decreasing power consumption, and saving money.
 
 
 ## Overview
