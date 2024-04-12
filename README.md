@@ -51,3 +51,6 @@ Parameters:
 
 x_axis_data: Energy Consumed in Joules by Software Applications.
 y_axis_data: Total execution time of Software Application.
+
+#### Whitepaper Sustainable Software Approach
+The white paper 'Title: Approach to Sustainable Software – Python Applications', thoroughly examines the impact of software on energy consumption and presents effective strategies for achieving improved sustainability. In today’s technology-driven world, the demand for energy-efficient software is rapidly increasing. This paper meticulously analyzes the software development process of Python applications, focusing on energy consumption. By implementing software optimization techniques, developers can significantly contribute to sustainability efforts by reducing energy consumption and making data centers more environmentally friendly.
